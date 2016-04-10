@@ -1,9 +1,8 @@
-#+TITLE:   Emacs init files
+#+TITLE:   Emacs Configuration Files
 #+AUTHOR:  David Conneely
-#+OPTIONS: toc:nil num:nil
-#+STARTUP: showall
 
-* Emacs Configuration
+#+OPTIONS: author:nil num:nil toc:nil
+#+STARTUP: showall
 
 Personal Emacs init files to make it easier to keep them in synchronization
 across multiple sites.
@@ -21,4 +20,3 @@ across multiple sites.
   incorporate features from them.
 - Provide attribution of sources (where possible) for the expressions or
   functions in configuration files (other than ~custom.el~ of course).
-
